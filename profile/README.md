@@ -6,7 +6,7 @@ Keeping it simple, such that many non-experts can instrument their existing clus
 
 Contributions, ideas and discussions from the cloud-native community are very welcome.
 
-This is a not-for-profit project.
+This is a not-for-profit community project (with absolutely no liability)
 
 
 ![Main_Poster](https://github.com/k8sstormcenter/.github/assets/70207455/2257d1d1-22e7-4280-99c5-c8efcf10c744)
