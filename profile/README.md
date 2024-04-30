@@ -6,7 +6,7 @@ Keeping it simple, such that many non-experts can instrument their existing clus
 
 Contributions, ideas and discussions from the cloud-native community are very welcome.
 
-There is a SLACK for the community https://join.slack.com/t/newworkspace-yqp2918/shared_invite/zt-2fdw4yclx-WoimRTTJy29kesXim88H3w 
+There is a SLACK for the community https://join.slack.com/t/k8sstorm/shared_invite/zt-2hulzsqh1-mnZL6fGFZiVLrOcqeTObIA 
 
 This is a not-for-profit community project (with absolutely no liability). Unless specifically specified otherwise, GPLv2 applies.
 
