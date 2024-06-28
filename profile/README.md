@@ -16,13 +16,16 @@ This is a not-for-profit community project (with absolutely no liability). Unles
 The Four Fold Path (to Threat Intelligence):
 <img width="1201" alt="FourFoldPathToThreatIntelligence" src="https://github.com/k8sstormcenter/.github/assets/70207455/1bfa4606-d6e5-4ddf-91a0-8993160a64e7">
 
-<!--
 
-
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Glossary
+| Term | Definition | Example |   
+|------|------------|---------|
+|  Threat Model    |     Entire superset of threats to your org       |         |   
+|  Threat Model -Branch   |   One threat to your org         | Initial Access:    Application Exploit leads to Priv Esc , Abuse of Service Account leads to Lateral Movement, Persistence is established on worker Node    |   
+|  Attack Model    |   Concrete implementation of Threat Model Branch Exploit       |    Wordpress Version 1.1.1 CVE 1234 allows RCE , POD SA creates PV/C , C2 software planted in PVC       |   
+|  Bait    |  Purpuseful initial access to Threat Model Branch         |    Commit creds to github     |  
+|  Events    |    Individual occurences in the IT system        |   Application logs, Network logs, TracingPolicy logs  , Audit logs    |  
+|  TracingPolicy    |   eBPF instruction to hook into kernel         |   Kprobe on filedescriptor "write" access in /tmp      |  
+|  Stix Observables   |   Relevant events that have occured         |    File '/tmp/wanky' has been written     |  
+|  Stix Indicators   |     Attack Model nodes necessary for Attack        |  'access to /etc/shadow'       |  
+|  Pattern   |    Match between Observable (event) and Indicator        |    '/usr/bin/mycat /etc/shadow'   <-> access to sensitive file  |  
