@@ -14,11 +14,9 @@ There is a SLACK for the community [https://join.slack.com/t/k8sstorm/shared_inv
 
 This is a not-for-profit community project (with absolutely no liability). Unless specifically specified otherwise, Apache License applies.
 
+![MVPTreeLogo](https://github.com/user-attachments/assets/78f93955-1f90-4ef0-a050-a652e2adf9fe)
+Make the attack trees visible !
 
-![Main_Poster](https://github.com/k8sstormcenter/.github/assets/70207455/2257d1d1-22e7-4280-99c5-c8efcf10c744)
-
-The Four Fold Path (to Threat Intelligence):
-<img width="1201" alt="FourFoldPathToThreatIntelligence" src="https://github.com/k8sstormcenter/.github/assets/70207455/1bfa4606-d6e5-4ddf-91a0-8993160a64e7">
 
 
 ## Glossary
