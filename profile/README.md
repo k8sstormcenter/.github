@@ -8,7 +8,7 @@ Contributions, ideas and discussions from the cloud-native community are very we
 
 There is a SLACK for the community https://join.slack.com/t/k8sstorm/shared_invite/zt-2hulzsqh1-mnZL6fGFZiVLrOcqeTObIA 
 
-This is a not-for-profit community project (with absolutely no liability). Unless specifically specified otherwise, GPLv2 applies.
+This is a not-for-profit community project (with absolutely no liability). Unless specifically specified otherwise, Apache License applies.
 
 
 ![Main_Poster](https://github.com/k8sstormcenter/.github/assets/70207455/2257d1d1-22e7-4280-99c5-c8efcf10c744)
