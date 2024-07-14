@@ -6,7 +6,7 @@ Keeping it simple, such that many non-experts can instrument their existing clus
 
 Contributions, ideas and discussions from the cloud-native community are very welcome.
 
-There is a SLACK for the community https://join.slack.com/t/k8sstorm/shared_invite/zt-2hulzsqh1-mnZL6fGFZiVLrOcqeTObIA 
+There is a SLACK for the community [https://join.slack.com/t/k8sstorm/shared_invite/zt-2hulzsqh1-mnZL6fGFZiVLrOcqeTObIA](https://join.slack.com/t/k8sstorm/shared_invite/zt-2ma41wrv4-DWQlLAb6nhfZ2afHdE59Ww) 
 
 This is a not-for-profit community project (with absolutely no liability). Unless specifically specified otherwise, Apache License applies.
 
