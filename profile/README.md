@@ -10,7 +10,7 @@ It should be noted, that a large usecase is to "simulate" the attack by using sy
 
 Contributions, ideas and discussions from the cloud-native community are very welcome. We encourage users to report any issues.
 
-There is a SLACK for the community [https://join.slack.com/t/k8sstorm/shared_invite/zt-2hulzsqh1-mnZL6fGFZiVLrOcqeTObIA](https://join.slack.com/t/k8sstorm/shared_invite/zt-2ma41wrv4-DWQlLAb6nhfZ2afHdE59Ww) 
+There is a SLACK for the community [https://join.slack.com/t/k8sstorm/shared_invite/zt-2r5x47fjl-I3rxUkGktnY93~rKeJ2Rpg ] 
 
 This is a not-for-profit community project (with absolutely no liability). Unless specifically specified otherwise, Apache License applies.
 
