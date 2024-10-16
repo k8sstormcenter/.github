@@ -1,6 +1,7 @@
-## Welcome to the Kubernetes Storm Center 👋
+## Welcome to the Kubernetes Storm Center 👋 Let's take the fear out of threats (by understanding them)
 
 We want to enable (truly) free and open source threat intelligence for the cloud native ecosystem.
+
 
 Keeping it simple, such that many non-experts can instrument their existing cluster-templates, stream and collect the information of how attackers traverse their "honeycluster", and publish their threat intelligence.
 
