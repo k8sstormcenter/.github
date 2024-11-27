@@ -11,7 +11,7 @@ It should be noted, that a large usecase is to "simulate" the attack by using sy
 
 Contributions, ideas and discussions from the cloud-native community are very welcome. We encourage users to report any issues.
 
-There is a SLACK for the community [[https://join.slack.com/t/k8sstorm/signup ](https://github.com/k8sstormcenter)] 
+There is a SLACK for the community [[https://join.slack.com/t/k8sstorm/signup ]( https://github.com/k8sstormcenter](https://join.slack.com/t/k8sstorm/signup ))] 
 
 This is a not-for-profit community project (with absolutely no liability). Unless specifically specified otherwise, Apache License applies.
 
