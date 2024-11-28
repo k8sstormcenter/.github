@@ -5,7 +5,7 @@ We want to enable (truly) free and open source threat intelligence for the cloud
 
 Keeping it simple, such that many non-experts can instrument their existing cluster-templates, stream and collect the information of how attackers traverse their "honeycluster", and publish their threat intelligence.
 
-These "honeyclusters" can be used to pro-actively test also perceived or modelled threats on a continuous improvement mindset.
+These "honeyclusters" can also be used to pro-actively test perceived or modelled threats on a continuous improvement mindset.
 
 It should be noted, that a large usecase is to "simulate" the attack by using synthetic attacks (attack yourself) to test if a team can a) detect and b) defend and c) incident respond (as required by e.g. NIS-2).
 
