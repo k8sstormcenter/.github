@@ -2,8 +2,6 @@
 
 We want to enable (truly) free and open source threat intelligence for the cloud native ecosystem and create an OpenSource Kubernetes SOC
 
-
-Keeping it simple, such that many non-experts can instrument their existing cluster-templates, stream and collect the information of how attackers traverse their "honeycluster", and publish their threat intelligence.
 What started with honeyclusters, became a project to instrument kubernetes for live adaptive detection, meaning to construct an algorithm of detection mechanisms to auto-tune the finding of interesting activity on a large and distributed system.
 
 
